@@ -19,5 +19,5 @@ Al lado de "+Texto" esta la opción "+Código", al hacer click allí podremos em
 
 Ejemplos sencillos de código:
 
-<img width="250" height="130" alt="Captura de pantalla 2026-03-12 120534" src="https://github.com/user-attachments/assets/48ebd1e8-1ba5-4669-8bcf-5928cb9149fb" />
+<img width="250" height="130" alt="Captura de pantalla 2026-03-12 120534" src="https://github.com/user-attachments/assets/48ebd1e8-1ba5-4669-8bcf-5928cb9149fb" /](https://github.com/anagodoyy85/modulo_1/edit/main/googleColab.png>
 
