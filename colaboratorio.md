@@ -19,6 +19,8 @@ Al lado de "+Texto" esta la opción "+Código", al hacer click allí podremos em
 
 Ejemplos sencillos de código:
 
+<img width="800" height="600" alt="Captura de pantalla 2026-03-12 120534" src=https://github.com/anagodoyy85/modulo_1/blob/main/imagen_googlecolab.jpeg>
+
 <img width="800" height="600" alt="Captura de pantalla 2026-03-12 120534" src=https://github.com/anagodoyy85/modulo_1/blob/main/migooglecolab.png/>
 
-<img width="800" height="600" alt="Captura de pantalla 2026-03-12 120534" src=https://github.com/anagodoyy85/modulo_1/blob/main/imagen_googlecolab.jpeg>
+
